@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 1\\periode 3\\Prog\\CsharpOpdrachten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2331E8DA-0A1B-4C34-9A4D-D4996822CB4D}|CsharpOpdrachten\\CsharpOpdrachten.csproj|c:\\users\\svenj\\onedrive\\documents\\ma dingen\\bewijzenmap\\jaar 1\\periode 3\\prog\\csharpopdrachten\\csharpopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2331E8DA-0A1B-4C34-9A4D-D4996822CB4D}|CsharpOpdrachten\\CsharpOpdrachten.csproj|solutionrelative:csharpopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6243E7-6E26-46B1-B97B-28E11EFA5E1A}|ProjectAddOpdracht\\ProjectAddOpdracht.csproj|c:\\users\\svenj\\onedrive\\documents\\ma dingen\\bewijzenmap\\jaar 1\\periode 3\\prog\\csharpopdrachten\\projectaddopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6243E7-6E26-46B1-B97B-28E11EFA5E1A}|ProjectAddOpdracht\\ProjectAddOpdracht.csproj|solutionrelative:projectaddopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 1\\periode 3\\Prog\\CsharpOpdrachten\\ProjectAddOpdracht\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAddOpdracht\\Program.cs",
+              "ToolTip": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 1\\periode 3\\Prog\\CsharpOpdrachten\\ProjectAddOpdracht\\Program.cs",
+              "RelativeToolTip": "ProjectAddOpdracht\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:22:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 1\\periode 3\\Prog\\CsharpOpdrachten\\CsharpOpdrachten\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpOpdrachten\\Program.cs",
+              "ToolTip": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 1\\periode 3\\Prog\\CsharpOpdrachten\\CsharpOpdrachten\\Program.cs",
+              "RelativeToolTip": "CsharpOpdrachten\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:17:06.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
