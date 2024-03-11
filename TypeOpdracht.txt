@@ -1,0 +1,10 @@
+Zou fout kunnen zitten, niet 100% zeker, maar:
+
+Class
+Function
+Boolean
+Integer
+Bitmap
+KeyBind
+string
+float
